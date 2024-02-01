@@ -1,4 +1,4 @@
-# Audio: Virtual Tour "Beaver Ecosystem Hertafließ"
+# Audio: Beaver Ecosystem Hertafließ
 
 *Welcome to the audio repository for the virtual tour "Beaver Ecosystem Hertafließ"!*
 
